@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7eeaa138f4c5b804595b05b9a6d4bbe1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obby1Prefab: {instanceID: 0}
+  - obby2Prefab: {instanceID: 0}
+  - obby3Prefab: {instanceID: 0}
+  - obby4Prefab: {instanceID: 0}
+  - obby5Prefab: {instanceID: 0}
+  - powerUpPrefab: {instanceID: 0}
+  - warningIndicatorPrefab: {instanceID: 0}
+  - ashPrefab: {instanceID: 0}
+  - fire1: {fileID: 8300000, guid: 98b50d766bb61fb4c8ca648d38ea5928, type: 3}
+  - fire2: {fileID: 8300000, guid: f8e22ed3df96531418f9f9611d8022a1, type: 3}
+  - fire3: {fileID: 8300000, guid: c296c80dc08232c4a8216443422980f9, type: 3}
+  - fire4: {fileID: 8300000, guid: b51a8c4b0d85f8e4ca64edd6bb8a4ed3, type: 3}
+  - fire5: {fileID: 8300000, guid: da8d650bf176e0d4bbf41ef31c2da3ba, type: 3}
+  - waterSound: {fileID: 8300000, guid: dcd1c7275c43eb841984e56975745ae8, type: 3}
+  - extinguishSound: {fileID: 8300000, guid: 47746f3306d33ff4d974fb8b5805d60e, type: 3}
+  - skyBackground: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
